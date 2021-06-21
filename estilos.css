@@ -1,0 +1,118 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-size: 9.0rem;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    color: #2C497F;
+    text-decoration: underline;
+    text-align: center;
+    animation: mio 8s infinite;
+    background: url("sonrisa.png") no-repeat;
+    background-size: 110px;
+    background-position: 90%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+@keyframes mio{
+    20%{color: red;};
+
+    40%{color:rgb(117, 6, 43);};
+
+    60%{color:rgb(134, 35, 68);};
+
+    80%{color:rgb(116, 27, 57);};
+
+    100%{color:red;};
+}
+
+a {
+    text-decoration: none;
+    font-size: 2.3rem;
+    padding: 1%;
+    color: red;
+    background-color: orange;
+    border: 4px outset red;
+    border-radius: 20px 20px 20px 20px;
+    display: block;
+    width: 45%;
+    margin: auto;
+    text-align: center;
+}
+
+span{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    color: #011b0f;
+}
+
+p { 
+    border-bottom: 1px solid;
+    font-size: 1.5rem;
+}
+
+li{
+    padding: 1%;
+    font-size: 2.1rem;
+    font-weight: bold;
+}
+
+.container{
+    border: 9px ridge red;
+    background-color: #8fb59e;;
+    padding: 2%;
+    width: 100%;
+    height: 100%;
+}
+
+.container__subT {
+    font-size: 2.3rem;
+    text-align: center;
+    border-top: 3px solid;
+    border-bottom: 3px solid;
+    padding: 1%;
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+
+.container__link :hover {
+    border: 4px outset blue;
+    color: red;
+    background-color:  #3DA3EF;
+}
+
+.container__lista{
+    border: 3px solid #000;
+    width: 59%;
+    padding: 3%;
+    margin: auto;
+    display: block;
+    list-style-type: number;
+    background-color: #3DA3EF;
+}
+
+.font {
+    font-size: 1.7rem;
+    color: rgb(26, 3, 7);
+    font-weight: bold;
+}
+
+/* font-family: 'Big Shoulders Stencil Display', cursive;
+   font-family: 'Roboto', sans-serif;
+*/
