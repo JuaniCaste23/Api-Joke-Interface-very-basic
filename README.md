@@ -1,5 +1,5 @@
 # Api-Joke-Interface-very-basic-
-Hecho con HTML y CSS básico. El objetivo era hacer una interfaz (en forma de una página simple) para una API (en este caso se eligio la API Joke) y traer unos datos JSON de la misma. Para traer los datos JSON se uso JS básico con funciones flecha que engloban los datos JSON y los transporta al HTML. 
+Hecho con HTML y CSS básico. El objetivo era hacer una interfaz (en forma de una página simple) para una API (en este caso se eligio la API Joke) y traer unos datos JSON de la misma (todo esto para un Trabajo Práctico de la Carrera de Sistemas). Para traer los datos JSON se uso JS básico con funciones flecha que engloban los datos JSON y los transporta al HTML. 
 
 (Solo es compatible con Desktop, no es una página Responsive)!!!
 
