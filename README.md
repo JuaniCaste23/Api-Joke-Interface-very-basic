@@ -3,7 +3,7 @@ Hecho con HTML y CSS básico. El objetivo era hacer una interfaz (en forma de un
 
 (Solo es compatible con Desktop, no es una página Responsive)!!!
 
-Para ver la página sin descargar: https://api-joke-interface-very-basic-c0evkyhzb-juanicaste23.vercel.app/
+Para ver el Index sin descargar: https://api-joke-interface-very-basic-c0evkyhzb-juanicaste23.vercel.app/
 
 LINK PARA LA API JOKE:
 
